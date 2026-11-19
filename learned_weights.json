@@ -1,0 +1,24 @@
+{
+  "features": [
+    "priority (credited)",
+    "priority x scarcity",
+    "airmass - 1",
+    "airmass - best tonight",
+    "set-urgency",
+    "program lag",
+    "slew / 100 deg",
+    "seeing margin",
+    "ToO flag"
+  ],
+  "w": [
+    2.509375135208227,
+    2.0741907630179885,
+    -0.2671126807235699,
+    -1.8130745069312684,
+    0.763299990978223,
+    0.41258539134190436,
+    -1.1382636728368407,
+    -0.0687682042794678,
+    1.5975967596297458
+  ]
+}
